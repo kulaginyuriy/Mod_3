@@ -1,5 +1,5 @@
-x = float(input("deposit_bank="))
-y = float(input("money $="))
+x = float(input("есть столько денег="))
+y = float(input("Хочу, чтобы было ="))
 p = float( input("%="))
 time = y/(x*p/100)
 z =((x+(x*p/100))*p/100)
